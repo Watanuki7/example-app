@@ -51,8 +51,8 @@
             <span class="text-amber-500 font-bold">Javascript</span> and <span class="text-amber-500 font-bold">Laravel</span>. <br />
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam ut. <br />
           </p>
-          <x-button-link href="https://google.com/" variant="red" target="_blank">
-            Button
+          <x-button-link href="https://www.youtube.com/watch?v=ZEcqHA7dbwM" variant="red" target="_blank">
+            Botón
           </x-button-link>
         </div>
       </div>

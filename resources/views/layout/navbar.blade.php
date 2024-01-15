@@ -6,7 +6,7 @@
                 <a href="/" class="w-full flex items-center py-2">
                     <img src="{{ url('/img/logo.png') }}" alt="logo" class="w-[48px] lg:w-[64px] inline-block dark:hidden"/>
                     <img src="{{ url('/img/logo-white.png') }}" alt="logo" class="w-[48px] lg:w-[64px] hidden dark:inline-block"/>
-                    <span class="text-xl xl:text-2xl font-bold text-[#0c7187] dark:text-white">Gabriel Uribe</span>
+                    <span class="text-xl xl:text-2xl font-bold text-[#0c7187] dark:text-white">Gabriel Uribe Morales</span>
                 </a>
             </div>
             <div>

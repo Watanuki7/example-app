@@ -10,19 +10,19 @@
                     <p class="text-base mb-8 max-w-[520px]">
                         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam vel <br/>
                         bibendum nisl, quis dapibus neque. Nulla facilisi. Praesent dictum ut
-                        <a class="text-primary font-bold no-underline hover:underline underline-offset-2 decoration-2 decoration-primary" href="https://www.google.cl/" target="_blank">link</a>. 
+                        <a class="text-primary font-bold no-underline hover:underline underline-offset-2 decoration-2 decoration-primary" href="https://www.youtube.com/watch?v=vJgGs9WpGt0" target="_blank">link</a>. 
                         <br>
                     </p>
                     <ul class="flex flex-wrap items-center">
                         <li>
-                        <x-button-link href="#portfolio" variant="primary" class="rounded-lg">
-                            Button
+                        <x-button-link href="https://www.youtube.com/watch?v=ZOihMwRxUdM" variant="primary" class="rounded-lg" target="_blank">
+                            Botón
                         </x-button-link>
                         </li>
                     </ul>
                     <div class="clients pt-16">
                         <h6 class="font-normal text-xs flex items-center text-body-color dark:text-gray-300 mb-4">
-                        Follow me on social media
+                        Links:
                         <span class="w-8 h-[1px] bg-body-color inline-block ml-2"></span>
                         </h6>
                         <x-social-icons></x-social-icons>
